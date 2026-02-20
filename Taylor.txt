@@ -1,0 +1,18 @@
+Course Name: Python 2
+This course builds on the skills and concepts learned in our previous computer science courses.  The topics challenge students to explore how computing and technology can impact the world, with a unique focus on creative problem solving and real-world applications.  A successful student will know more advanced data structures and object-oriented programming basics.  A successful student will be able to communicate with popular APIs including Twitter and Google in order to “grab” data and to organize the data and display it.
+
+Strength:
+Learning Outcome 4 - Express creativity using coding and technology in a variety of contexts
+Comment: good try here taylor
+
+Strength:
+Learning Outcome 3 - Design, document, implement and test solutions to programming problems
+Comment: wow you are incredible
+
+Area of Growth:
+Learning Outcome 1 - Identify/characterize/define a programming problem
+Comment: try better next time
+
+Closing: Taylor! Some words I would use to describe you as a student are cute and funny. I look forward to seeing you next semester. you did good but you could improve in some areas. Enjoy the break!
+
+Overall grade: B
